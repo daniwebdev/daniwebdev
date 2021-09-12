@@ -10,8 +10,9 @@
 
 ### About
   
-💻 26 years old developer
-📚 Currently working as Full Stack Web Development
+💻 26 years old developer    
+📚 Currently working as Full Stack Developer  
+
 
 ### My Projects
 - [beritasaham.id](https://beritasaham.id)
