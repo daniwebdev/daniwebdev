@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrisr&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniwebdev&layout=compact">
 
 ### Hi there, I'm Dani :man_technologist:
 
@@ -10,13 +10,17 @@
 
 ### About
   
-💻 26 years old developer  
-🎓 Studying Information Systems here in Indonesia  
-📚 Currently working as Full Stack Web Development  
+💻 26 years old developer
+📚 Currently working as Full Stack Web Development
 
+### My Projects
+- [beritasaham.id](https://beritasaham.id)
+- [coderotodidak](https://instagram.com/coderotodidak)
+- [atios.app](https://atios.app)
 
 ### Languages and Tools
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
