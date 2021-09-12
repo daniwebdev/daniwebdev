@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrisr&layout=compact">
 
-### Hi there, I'm Fiqri :man_technologist:
+### Hi there, I'm Dani :man_technologist:
 
 [![fiqri.my.id](https://img.shields.io/static/v1?label=dani.work&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://dani.work/)
 [![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/we.are.emo/)
