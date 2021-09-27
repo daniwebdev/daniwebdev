@@ -10,7 +10,7 @@
 
 ### About
   
-💻 25 years old developer    
+💻 +4 Years Experiance    
 📚 Currently working as Full Stack Developer  
 
 
