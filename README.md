@@ -17,7 +17,6 @@
 ### My Projects
 - [beritasaham.id](https://beritasaham.id)
 - [coderotodidak](https://instagram.com/coderotodidak)
-- [atios.app](https://atios.app)
 
 ### Languages and Tools
 
