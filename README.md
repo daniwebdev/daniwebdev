@@ -16,6 +16,7 @@
 
 ### My Projects
 - [beritasaham.id](https://beritasaham.id)
+- [goapi.id](https://goapi.id)
 - [coderotodidak](https://instagram.com/coderotodidak)
 
 ### Languages and Tools
