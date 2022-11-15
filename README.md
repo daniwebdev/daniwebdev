@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniwebdev&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=daniwebdev&layout=dark">
 
 ### Hi there, I'm Dani :man_technologist:
 
