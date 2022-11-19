@@ -11,7 +11,7 @@
 ### About
   
 💻 +5 Years Experiance<br/>
-📚 Currently working as Full Stack Developer  
+📚 Currently working as Software Developer
 
 
 ### My Projects
@@ -20,4 +20,4 @@
 - [json.web.id](https://json.web.id)
 - [coderotodidak](https://instagram.com/coderotodidak)
 
-More about me : [https://me.dani.work](https://me.dani.work)
+Find out more about me : [https://me.dani.work](https://me.dani.work)
