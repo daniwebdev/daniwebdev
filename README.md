@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=daniwebdev&layout=dark">
-
 ### Hi there, I'm Dani :man_technologist:
 
 [![dani.work](https://img.shields.io/static/v1?label=dani.work&message=%20&color=yellow&logo=GoogleChrome&style=flat-square&logoColor=white)](https://dani.work/)
@@ -21,3 +19,7 @@
 - [coderotodidak](https://instagram.com/coderotodidak)
 
 Find out more about me : [https://me.dani.work](https://me.dani.work)
+
+
+|  <img src="https://github-readme-stats.vercel.app/api?username=daniwebdev&layout=dark">   |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniwebdev&theme=radical"> |
+|------------------------|-----------------------------|
