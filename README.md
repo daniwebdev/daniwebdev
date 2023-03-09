@@ -21,5 +21,5 @@
 Find out more about me : [https://me.dani.work](https://me.dani.work)
 
 
-|  <img src="https://github-readme-stats.vercel.app/api?username=daniwebdev&layout=dark">   |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniwebdev&theme=radical"> |
-|------------------------|-----------------------------|
+|  <img src="https://github-readme-stats.vercel.app/api?username=daniwebdev&theme=prussian&show_icons=true">   |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniwebdev&theme=prussian"> |
+|--------------------------------|----------------------------------|
