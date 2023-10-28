@@ -17,7 +17,9 @@
 - [beritasaham.id](https://beritasaham.id)
 - [goapi.id](https://goapi.id)
 - [json.web.id](https://json.web.id)
-- [coderotodidak](https://instagram.com/coderotodidak)
+- [insideofcode.com](https://insideofcode.com)
+- [insideofcode on Instagram](https://instagram.com/insideofcode)
+
 
 Find out more about me : [https://me.dani.work](https://me.dani.work)
 
