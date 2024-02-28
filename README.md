@@ -12,15 +12,6 @@
 💻 +5 Years Experiance<br/>
 📚 Currently working as Software Developer
 
-
-### My Projects
-- [beritasaham.id](https://beritasaham.id)
-- [goapi.id](https://goapi.id)
-- [json.web.id](https://json.web.id)
-- [insideofcode.com](https://insideofcode.com)
-- [insideofcode on Instagram](https://instagram.com/insideofcode)
-
-
 Find out more about me : [https://me.dani.work](https://me.dani.work)
 
 
