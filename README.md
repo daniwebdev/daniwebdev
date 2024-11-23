@@ -9,8 +9,7 @@
 
 ### About
   
-💻 +5 Years Experiance<br/>
-📚 Currently working as Software Developer
+💻 +7 Years Experiance<br/>
 
 Find out more about me : [https://me.dani.work](https://me.dani.work)
 
